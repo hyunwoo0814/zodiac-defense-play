@@ -6,6 +6,11 @@
       "url": "assets/map/stage1.png"
     },
     {
+      "key": "hand",
+      "type": "image",
+      "url": "assets/ui/hand.png"
+    },
+    {
       "key": "icon-coin",
       "type": "image",
       "url": "assets/ui/icon-coin.png"

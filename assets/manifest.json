@@ -1,0 +1,680 @@
+{
+  "boot": [
+    {
+      "key": "map-stage1",
+      "type": "image",
+      "url": "assets/map/stage1.png"
+    },
+    {
+      "key": "icon-coin",
+      "type": "image",
+      "url": "assets/ui/icon-coin.png"
+    },
+    {
+      "key": "icon-heart",
+      "type": "image",
+      "url": "assets/ui/icon-heart.png"
+    },
+    {
+      "key": "plot-base",
+      "type": "image",
+      "url": "assets/ui/plot-base.png"
+    },
+    {
+      "key": "plot-empty",
+      "type": "image",
+      "url": "assets/ui/plot-empty.png"
+    },
+    {
+      "key": "beast-haetae",
+      "type": "image",
+      "url": "assets/beast/haetae.png"
+    },
+    {
+      "key": "beast-hyeonmu",
+      "type": "image",
+      "url": "assets/beast/hyeonmu.png"
+    },
+    {
+      "key": "beast-jujak",
+      "type": "image",
+      "url": "assets/beast/jujak.png"
+    },
+    {
+      "key": "fx-arrow",
+      "type": "image",
+      "url": "assets/fx/arrow.png"
+    },
+    {
+      "key": "fx-bolt",
+      "type": "image",
+      "url": "assets/fx/bolt.png"
+    },
+    {
+      "key": "fx-burn",
+      "type": "frames",
+      "urlPattern": "assets/fx/burn/{i}.png",
+      "count": 4,
+      "frameRate": 10,
+      "repeat": -1
+    },
+    {
+      "key": "fx-coin",
+      "type": "image",
+      "url": "assets/fx/coin.png"
+    },
+    {
+      "key": "fx-levelup",
+      "type": "frames",
+      "urlPattern": "assets/fx/levelup/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "fx-poison",
+      "type": "image",
+      "url": "assets/fx/poison.png"
+    },
+    {
+      "key": "fx-slash",
+      "type": "frames",
+      "urlPattern": "assets/fx/slash/{i}.png",
+      "count": 4,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "fx-smoke",
+      "type": "frames",
+      "urlPattern": "assets/fx/smoke/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "fx-stomp",
+      "type": "frames",
+      "urlPattern": "assets/fx/stomp/{i}.png",
+      "count": 4,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-dragon-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-dragon-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-dragon-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-dragon-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dragon-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dragon/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-ox-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-ox-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-ox-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-ox-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-ox-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-ox-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-ox-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-ox-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-ox-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-ox-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/ox/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rabbit-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rabbit-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rabbit-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rabbit-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rabbit-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rabbit-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rabbit-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rabbit-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rabbit-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rabbit-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rabbit/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rat-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rat-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rat-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rat-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rat-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rat-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rat-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rat-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rat-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rat-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rat/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-snake-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-snake-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-snake-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-snake-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-snake-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-snake-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-snake-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-snake-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-snake-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-snake-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/snake/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-tiger-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t1/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-tiger-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t1/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-tiger-t2-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t2/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-tiger-t2-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t2/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-tiger-t3-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t3/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-tiger-t3-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t3/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-tiger-t4-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t4/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-tiger-t4-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t4/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-tiger-t5-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t5/attack/{i}.png",
+      "count": 6,
+      "frameRate": 12,
+      "repeat": 0
+    },
+    {
+      "key": "gen-tiger-t5-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/tiger/t5/idle/{i}.png",
+      "count": 4,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "en-armored-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/armored/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-armored-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/armored/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-dokkaebi-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/dokkaebi/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-dokkaebi-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/dokkaebi/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-duoksini-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/duoksini/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-duoksini-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/duoksini/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-fox-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/fox/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-fox-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/fox/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-ghost-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/ghost/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-ghost-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/ghost/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-wisp-walk-e",
+      "type": "frames",
+      "urlPattern": "assets/enemies/wisp/walk-e/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    },
+    {
+      "key": "en-wisp-walk-s",
+      "type": "frames",
+      "urlPattern": "assets/enemies/wisp/walk-s/{i}.png",
+      "count": 6,
+      "frameRate": 8,
+      "repeat": -1
+    }
+  ]
+}

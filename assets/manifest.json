@@ -109,15 +109,15 @@
       "key": "gen-dragon-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-dragon-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -125,15 +125,15 @@
       "key": "gen-dragon-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-dragon-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -142,14 +142,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-dragon-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -158,14 +158,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-dragon-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -174,14 +174,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-dragon-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/dragon/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -189,15 +189,15 @@
       "key": "gen-ox-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-ox-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -205,15 +205,15 @@
       "key": "gen-ox-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-ox-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -222,14 +222,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/ox/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-ox-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -238,14 +238,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/ox/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-ox-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -254,14 +254,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/ox/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-ox-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/ox/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -269,15 +269,15 @@
       "key": "gen-rabbit-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rabbit-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -285,15 +285,15 @@
       "key": "gen-rabbit-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rabbit-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -302,14 +302,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rabbit-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -318,14 +318,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rabbit-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -334,14 +334,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rabbit-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rabbit/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -349,15 +349,15 @@
       "key": "gen-rat-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rat-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -365,15 +365,15 @@
       "key": "gen-rat-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rat-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -382,14 +382,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rat/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rat-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -398,14 +398,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rat/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rat-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -414,14 +414,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/rat/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-rat-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/rat/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -429,15 +429,15 @@
       "key": "gen-snake-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-snake-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -445,15 +445,15 @@
       "key": "gen-snake-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-snake-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -462,14 +462,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/snake/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-snake-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -478,14 +478,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/snake/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-snake-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -494,14 +494,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/snake/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-snake-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/snake/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -509,15 +509,15 @@
       "key": "gen-tiger-t1-attack",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t1/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-tiger-t1-idle",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t1/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -525,15 +525,15 @@
       "key": "gen-tiger-t2-attack",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t2/attack/{i}.png",
-      "count": 6,
-      "frameRate": 12,
+      "count": 9,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-tiger-t2-idle",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t2/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -542,14 +542,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t3/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-tiger-t3-idle",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t3/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -558,14 +558,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t4/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-tiger-t4-idle",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t4/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -574,14 +574,14 @@
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t5/attack/{i}.png",
       "count": 6,
-      "frameRate": 12,
+      "frameRate": 16,
       "repeat": 0
     },
     {
       "key": "gen-tiger-t5-idle",
       "type": "frames",
       "urlPattern": "assets/generals/tiger/t5/idle/{i}.png",
-      "count": 4,
+      "count": 1,
       "frameRate": 4,
       "repeat": -1
     },
@@ -679,6 +679,104 @@
       "urlPattern": "assets/enemies/wisp/walk-s/{i}.png",
       "count": 6,
       "frameRate": 8,
+      "repeat": -1
+    }
+  ],
+  "locked": [
+    {
+      "key": "gen-dog-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/dog/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-dog-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/dog/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-horse-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/horse/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-horse-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/horse/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-monkey-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/monkey/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-monkey-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/monkey/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-pig-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/pig/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-pig-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/pig/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-rooster-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/rooster/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-rooster-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/rooster/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
+      "repeat": -1
+    },
+    {
+      "key": "gen-sheep-t1-attack",
+      "type": "frames",
+      "urlPattern": "assets/generals/sheep/t1/attack/{i}.png",
+      "count": 9,
+      "frameRate": 16,
+      "repeat": 0
+    },
+    {
+      "key": "gen-sheep-t1-idle",
+      "type": "frames",
+      "urlPattern": "assets/generals/sheep/t1/idle/{i}.png",
+      "count": 1,
+      "frameRate": 4,
       "repeat": -1
     }
   ]

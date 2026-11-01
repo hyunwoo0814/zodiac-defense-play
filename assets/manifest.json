@@ -6,6 +6,31 @@
       "url": "assets/map/stage1.png"
     },
     {
+      "key": "el-earth",
+      "type": "image",
+      "url": "assets/ui/el-earth.png"
+    },
+    {
+      "key": "el-fire",
+      "type": "image",
+      "url": "assets/ui/el-fire.png"
+    },
+    {
+      "key": "el-metal",
+      "type": "image",
+      "url": "assets/ui/el-metal.png"
+    },
+    {
+      "key": "el-water",
+      "type": "image",
+      "url": "assets/ui/el-water.png"
+    },
+    {
+      "key": "el-wood",
+      "type": "image",
+      "url": "assets/ui/el-wood.png"
+    },
+    {
       "key": "hand",
       "type": "image",
       "url": "assets/ui/hand.png"
@@ -19,6 +44,21 @@
       "key": "icon-heart",
       "type": "image",
       "url": "assets/ui/icon-heart.png"
+    },
+    {
+      "key": "leaf-a",
+      "type": "image",
+      "url": "assets/ui/leaf-a.png"
+    },
+    {
+      "key": "leaf-b",
+      "type": "image",
+      "url": "assets/ui/leaf-b.png"
+    },
+    {
+      "key": "leaf-c",
+      "type": "image",
+      "url": "assets/ui/leaf-c.png"
     },
     {
       "key": "plot-base",
